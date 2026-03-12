@@ -1,5 +1,5 @@
 # devops-bot
-## Commands for getting started 
+## Commands to get started 
 First build the image from the Dockerfile
 `docker build -t merlin-bot .`
 Then start the container with
